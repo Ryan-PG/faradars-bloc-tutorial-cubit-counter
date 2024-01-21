@@ -1,7 +1,6 @@
-![image](https://github.com/Ryan-PG/faradars-bloc-tutorial-cubit-counter/assets/88665538/9f4176a1-c1f6-45f2-8387-62e994a49972)# Flutter Cubit Tutorial App
+# Flutter Cubit Tutorial App
 
 This Flutter application is a tutorial for implementing Cubit architecture in your Flutter projects. The tutorial is part of a larger programming tutorial series that is now acceible from [Faradars Bloc Tutorial](https://faradars.org/courses/bloc-architecture-in-flutter-fvflt305).
-.
 
 ## Table of Contents
 
